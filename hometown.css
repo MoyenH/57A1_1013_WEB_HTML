@@ -1,0 +1,25 @@
+body{
+            background-image: url('f.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            text-align: center;
+}
+img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+ img {
+    border-radius: 15px;
+    width: 180px;
+    height: 180px;
+    border: 2px solid rgb(1, 2, 3);
+    margin-right: 24px;
+}
+
+
+
+
